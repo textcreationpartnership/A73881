@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Sweet and pleasant sonet, entituled, My minde to me a kingdome is to the tune of, In Creet, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73881</idno>
+            <idno type="STC">STC 7384.5</idno>
+            <idno type="STC">ESTC S5275</idno>
+            <idno type="EEBO-CITATION">39960754</idno>
+            <idno type="OCLC">ocm 39960754</idno>
+            <idno type="VID">150462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1942:16b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Sweet and pleasant sonet, entituled, My minde to me a kingdome is to the tune of, In Creet, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for H.G.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1624]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC (2nd ed.)</note>
+                  <note>Contains one woodcut illus.</note>
+                  <note>Bound and filmed following STC (2nd ed.) 16864a.12.</note>
+                  <note>Reproduction of original in: Pepys' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150462:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>A ſweet and pleaſant Sonet, entituled: My minde to me a kingdome is.</head>
+            <opener>To the tune of, <hi>In Creet, &amp;c,</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>My minde to me a Kingdome is,</l>
+               <l>ſuch perfect ioyes therein I find,</l>
+               <l>It farre excéeds all earthly bliſſe,</l>
+               <l>that world affords, or growes by kind:</l>
+               <l>Though much I want that moſt men haue,</l>
+               <l>Yet doth my mind forbid me craue.</l>
+            </lg>
+            <lg>
+               <l>Content I liue, this is my ſtay,</l>
+               <l>I ſéeke no more then may ſuffice,</l>
+               <l>I preſſe to beare no haughty ſway,</l>
+               <l>looke what I lacke my minde ſupplies:</l>
+               <l>Loe, thus I triumph like a King.</l>
+               <l>Content with that my mind doth bring.</l>
+            </lg>
+            <lg>
+               <l>I ſée how plenty ſurfets oft,</l>
+               <l>and haſty climbers oft doe fall,</l>
+               <l>I ſée how thoſe that ſit aloft,</l>
+               <l>miſhap doth threaten moſt of all,</l>
+               <l>They get, they toyle, they ſpend with care,</l>
+               <l>Such care my mind could neuer beare.</l>
+            </lg>
+            <lg>
+               <l>I laugh not at anothers loſſe,</l>
+               <l>I grudge not at anothers gaine,</l>
+               <l>No wordly waue my minde can toſſe,</l>
+               <l>I brooke that is anothers bane:</l>
+               <l>I feare no foe, I ſcorne no friend,</l>
+               <l>I dread no death, I feare no end.</l>
+            </lg>
+            <lg>
+               <l>Some haue too much, yet ſtill they craue,</l>
+               <l>I little haue, yet ſéeke no more,</l>
+               <l>They are but poore, though much they haue,</l>
+               <l>And I am rich with little ſtore,</l>
+               <l>They poore, I rich, they beg, I giue,</l>
+               <l>They lacke, I lend, they pine, I liue.</l>
+            </lg>
+            <lg>
+               <l>My wealth is health and perfect eaſe,</l>
+               <l>my conſcience cleare, my chiefe defence<g ref="char:punc">▪</g>
+               </l>
+               <l>I neuer ſeeke by bribes to pleaſe,</l>
+               <l>nor by deſert to giue offence:</l>
+               <l>Loe thus I liue, thus will I die,</l>
+               <l>Would all did ſo as well as I.</l>
+            </lg>
+            <lg>
+               <l>No princely pompe, no wealthy ſtore,</l>
+               <l>no force to get the victory,</l>
+               <l>No wily wit to ſalue a ſore,</l>
+               <l>no ſhape to win a Louers eye,</l>
+               <l>To none of theſe I yéeld as thrall,</l>
+               <l>For why my mind deſpiſeth all.</l>
+            </lg>
+            <lg>
+               <l>I ioy not at an earthly bliſſe,</l>
+               <l>I weigh not <hi>Creſus</hi> wealth a ſtraw,</l>
+               <l>For Care, I care not what it is,</l>
+               <l>I feare not Fortunes fatall law:</l>
+               <l>My mind is ſuch as may not moue,</l>
+               <l>For beauty bright or force of loue:</l>
+            </lg>
+            <lg>
+               <l>I wiſh not what I haue at will,</l>
+               <l>I wander not to ſéeke for more,</l>
+               <l>I like the plaine, I clime no hill,</l>
+               <l>in greateſt ſtorme I ſit on ſhore,</l>
+               <l>And laugh at thoſe that toile in vaine,</l>
+               <l>To get that muſt be loſt againe.</l>
+            </lg>
+            <lg>
+               <l>I kiſſe not were I wiſh to kill,</l>
+               <l>I faine no loue where moſt I hate,</l>
+               <l>I breake no ſléepe to winne my will,</l>
+               <l>I waite not at the mighties gate,</l>
+               <l>I ſcorne no poore, I feare no rich,</l>
+               <l>I féele no want, nor haue too much.</l>
+            </lg>
+            <lg>
+               <l>The Court, ne Cart, I like, ne loath,</l>
+               <l>extreames are counted worſt of all,</l>
+               <l>The golden meane betwixt them both,</l>
+               <l>both fareſt ſit, and feares no fall:</l>
+               <l>This is my choyce, for why I finde,</l>
+               <l>No wealth is like a quiet minde.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>H.G.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
